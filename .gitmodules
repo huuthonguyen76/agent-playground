@@ -1,0 +1,6 @@
+[submodule "website-parser"]
+	path = website-parser
+	url = https://github.com/huuthonguyen76/website-parser
+[submodule "website_parser"]
+	path = website_parser
+	url = https://github.com/huuthonguyen76/website_parser.git
