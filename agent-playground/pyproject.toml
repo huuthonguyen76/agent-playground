@@ -6,11 +6,12 @@ authors = [
     {name = "Barney Nguyen",email = "huu.thonguyen76@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.12,<4.0"
+requires-python = ">=3.12"
 dependencies = [
-    "gradio (>=5.18.0,<6.0.0)",
-    "langgraph (>=0.2.75,<0.3.0)"
 ]
+
+[tool.poetry]
+packages = [{include = "agent_playground", from = "src"}]
 
 
 [build-system]
