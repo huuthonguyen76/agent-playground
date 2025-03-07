@@ -1,5 +1,5 @@
 ---
-title: Test Space
+title: Agent Playground
 emoji: 📉
 colorFrom: purple
 colorTo: purple

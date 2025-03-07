@@ -9,7 +9,12 @@ readme = "README.md"
 requires-python = ">=3.12,<4.0"
 dependencies = [
     "gradio (>=5.18.0,<6.0.0)",
-    "langgraph (>=0.2.75,<0.3.0)"
+    "langgraph (>=0.2.75,<0.3.0)",
+    "aisuite[all] (>=0.1.10,<0.2.0)",
+    "docstring-parser (>=0.16,<0.17)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+    "fastapi (>=0.115.11,<0.116.0)",
+    "uvicorn (>=0.34.0,<0.35.0)"
 ]
 
 
