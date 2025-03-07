@@ -3,3 +3,6 @@ add-submodule:
 
 update-submodule:
 	git submodule update --remote --merge
+
+run:
+	python3 -m agent_playground.app.app
