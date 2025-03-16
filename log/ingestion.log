@@ -1,0 +1,184 @@
+2025-03-16 21:09:10.501 | INFO     | src.bucket.logging:info:31 -  | Request ID: acb31b7d-0bff-42f5-9fcc-2cdff0f56db5 | chat-v1 | "Start to chat. Payload: request_id='acb31b7d-0bff-42f5-9fcc-2cdff0f56db5' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:09:20.787 | INFO     | src.bucket.logging:info:31 -  | Request ID: acb31b7d-0bff-42f5-9fcc-2cdff0f56db5 | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m doing great, thanks for asking. How are you feeling today? What\'s on your mind?\\n","session_id":"test_session_id","_id":"67d6db8cab301764e341dca5","id":"67d6db8cab301764e341dca5","info_output":null}]'
+2025-03-16 21:09:20.788 | INFO     | src.bucket.logging:info:31 -  | Request ID: acb31b7d-0bff-42f5-9fcc-2cdff0f56db5 | chat-v1 | 'Response: [{\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing great, thanks for asking. How are you feeling today? What\'s on your mind?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6db8cab301764e341dca5\', \'id\': \'67d6db8cab301764e341dca5\', \'info_output\': None}]'
+2025-03-16 21:09:20.790 | INFO     | src.bucket.logging:info:31 -  | Request ID: acb31b7d-0bff-42f5-9fcc-2cdff0f56db5 | chat-v1 | "Finished chat. Output: code=200 error_msg='' warn_msg='' result={'status': 'success'} request_id='acb31b7d-0bff-42f5-9fcc-2cdff0f56db5'"
+2025-03-16 21:10:27.205 | INFO     | src.bucket.logging:info:31 -  | Request ID: aff5dd69-9f3c-434a-a480-0069ee859459 | chat-v1 | "Start to chat. Payload: request_id='aff5dd69-9f3c-434a-a480-0069ee859459' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:10:38.288 | INFO     | src.bucket.logging:info:31 -  | Request ID: aff5dd69-9f3c-434a-a480-0069ee859459 | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m doing great, thanks for asking. How are you feeling today? What\'s on your mind?\\n","session_id":"test_session_id","_id":"67d6dbdaab301764e341dca6","id":"67d6dbdaab301764e341dca6","info_output":null}]'
+2025-03-16 21:10:38.289 | INFO     | src.bucket.logging:info:31 -  | Request ID: aff5dd69-9f3c-434a-a480-0069ee859459 | chat-v1 | 'Response: [{\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing great, thanks for asking. How are you feeling today? What\'s on your mind?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6dbdaab301764e341dca6\', \'id\': \'67d6dbdaab301764e341dca6\', \'info_output\': None}]'
+2025-03-16 21:12:05.421 | INFO     | src.bucket.logging:info:31 -  | Request ID: ceb677ec-8a12-44cd-92be-3596ac59ded1 | chat-v1 | "Start to chat. Payload: request_id='ceb677ec-8a12-44cd-92be-3596ac59ded1' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:12:14.561 | INFO     | src.bucket.logging:info:31 -  | Request ID: ceb677ec-8a12-44cd-92be-3596ac59ded1 | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m doing great, thanks for asking. What\'s on your mind?\\n","session_id":"test_session_id","_id":"67d6dc3bab301764e341dca7","id":"67d6dc3bab301764e341dca7","info_output":null}]'
+2025-03-16 21:12:14.561 | INFO     | src.bucket.logging:info:31 -  | Request ID: ceb677ec-8a12-44cd-92be-3596ac59ded1 | chat-v1 | 'Response: [{\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing great, thanks for asking. What\'s on your mind?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6dc3bab301764e341dca7\', \'id\': \'67d6dc3bab301764e341dca7\', \'info_output\': None}]'
+2025-03-16 21:12:14.561 | INFO     | src.bucket.logging:info:31 -  | Request ID: ceb677ec-8a12-44cd-92be-3596ac59ded1 | chat-v1 | 'Finished chat. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing great, thanks for asking. What\'s on your mind?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6dc3bab301764e341dca7\', \'id\': \'67d6dc3bab301764e341dca7\', \'info_output\': None} request_id=\'ceb677ec-8a12-44cd-92be-3596ac59ded1\''
+2025-03-16 21:46:28.887 | INFO     | src.bucket.logging:info:31 -  | Request ID: bc6ac3a6-15d5-490a-86d4-32c242d6810e | chat-v1 | "Start to chat. Payload: request_id='bc6ac3a6-15d5-490a-86d4-32c242d6810e' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:46:39.668 | INFO     | src.bucket.logging:info:31 -  | Request ID: bc6ac3a6-15d5-490a-86d4-32c242d6810e | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m doing well, thanks! How are you? What kind of things are you interested in chatting about?\\n","session_id":"test_session_id","_id":"67d6e44bab301764e341dca8","id":"67d6e44bab301764e341dca8","info_output":null}]'
+2025-03-16 21:46:39.668 | INFO     | src.bucket.logging:info:31 -  | Request ID: bc6ac3a6-15d5-490a-86d4-32c242d6810e | chat-v1 | 'Response: {\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing well, thanks! How are you? What kind of things are you interested in chatting about?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e44bab301764e341dca8\', \'id\': \'67d6e44bab301764e341dca8\', \'info_output\': None}'
+2025-03-16 21:46:39.668 | ERROR    | src.bucket.logging:exception:37 -  | Request ID: bc6ac3a6-15d5-490a-86d4-32c242d6810e | chat-v1 | 'Error when calling n8n chat webhook: Connection with alias "agent-history-db" has not been defined.'
+Traceback (most recent call last):
+
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/threading.py", line 1032, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7f677ab1a3e0>
+    └ <WorkerThread(AnyIO worker thread, started 140082356942400)>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/threading.py", line 1075, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x7f677799a0c0>
+    └ <WorkerThread(AnyIO worker thread, started 140082356942400)>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 962, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function v1_chat_handler at 0x7f67779b7100>, item=ChatRequestModel(request_id='bc6ac3a6-15d5-490a-86d4-32c...
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x7f6777a57140>
+
+  File "/home/nguyenhuutho/workspace/tho/agent-playground/src/app/app.py", line 11, in v1_chat_handler
+    return chat_handler(item)
+           │            └ ChatRequestModel(request_id='bc6ac3a6-15d5-490a-86d4-32c242d6810e', session_id='test_session_id', message='hellu_How_are_yu')
+           └ <function chat_handler at 0x7f6778e26a20>
+
+> File "/home/nguyenhuutho/workspace/tho/agent-playground/src/component/chat_2_relieve/handler.py", line 32, in chat_handler
+    create_chat_session(item.session_id, datetime.now())
+    │                   │    │           │        └ <method 'now' of 'datetime.datetime' objects>
+    │                   │    │           └ <class 'datetime.datetime'>
+    │                   │    └ 'test_session_id'
+    │                   └ ChatRequestModel(request_id='bc6ac3a6-15d5-490a-86d4-32c242d6810e', session_id='test_session_id', message='hellu_How_are_yu')
+    └ <function create_chat_session at 0x7f67787ff920>
+
+  File "/home/nguyenhuutho/workspace/tho/agent-playground/src/mongodb/crud/agent.py", line 11, in create_chat_session
+    ChatSessionMongo.objects(session_id=session_id).update_one(
+    │                │                  └ 'test_session_id'
+    │                └ <mongoengine.queryset.manager.QuerySetManager object at 0x7f6777de1d90>
+    └ <class 'src.mongodb.model.common_model.ChatSessionMongo'>
+
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/mongoengine/queryset/manager.py", line 38, in __get__
+    queryset = queryset_class(owner, owner._get_collection())
+               │              │      │     └ <classmethod(<function Document._get_collection at 0x7f6777baade0>)>
+               │              │      └ <class 'src.mongodb.model.common_model.ChatSessionMongo'>
+               │              └ <class 'src.mongodb.model.common_model.ChatSessionMongo'>
+               └ <class 'mongoengine.queryset.queryset.QuerySet'>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/mongoengine/document.py", line 224, in _get_collection
+    db = cls._get_db()
+         │   └ <classmethod(<function Document._get_db at 0x7f6777baaca0>)>
+         └ <class 'src.mongodb.model.common_model.ChatSessionMongo'>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/mongoengine/document.py", line 202, in _get_db
+    return get_db(cls._meta.get("db_alias", DEFAULT_CONNECTION_NAME))
+           │      │   │     │               └ 'default'
+           │      │   │     └ <method 'get' of 'dict' objects>
+           │      │   └ {'abstract': False, 'max_documents': None, 'max_size': None, 'ordering': [], 'indexes': [], 'id_field': 'id', 'index_backgrou...
+           │      └ <class 'src.mongodb.model.common_model.ChatSessionMongo'>
+           └ <function get_db at 0x7f6777b0f100>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/mongoengine/connection.py", line 386, in get_db
+    conn = get_connection(alias)
+           │              └ 'agent-history-db'
+           └ <function get_connection at 0x7f6777b0ef20>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/mongoengine/connection.py", line 292, in get_connection
+    raise ConnectionFailure(msg)
+          │                 └ 'Connection with alias "agent-history-db" has not been defined'
+          └ <class 'mongoengine.connection.ConnectionFailure'>
+
+mongoengine.connection.ConnectionFailure: Connection with alias "agent-history-db" has not been defined
+2025-03-16 21:48:21.549 | INFO     | src.bucket.logging:info:31 -  | Request ID: fa7fe1e9-cd37-43ea-b4f7-0a8d12c95892 | chat-v1 | "Start to chat. Payload: request_id='fa7fe1e9-cd37-43ea-b4f7-0a8d12c95892' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:48:31.340 | INFO     | src.bucket.logging:info:31 -  | Request ID: fa7fe1e9-cd37-43ea-b4f7-0a8d12c95892 | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m doing well thanks! How are you? What kind of things are you interested in chatting about?\\n","session_id":"test_session_id","_id":"67d6e4bbab301764e341dca9","id":"67d6e4bbab301764e341dca9","info_output":null}]'
+2025-03-16 21:48:31.340 | INFO     | src.bucket.logging:info:31 -  | Request ID: fa7fe1e9-cd37-43ea-b4f7-0a8d12c95892 | chat-v1 | 'Response: {\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing well thanks! How are you? What kind of things are you interested in chatting about?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e4bbab301764e341dca9\', \'id\': \'67d6e4bbab301764e341dca9\', \'info_output\': None}'
+2025-03-16 21:48:31.909 | INFO     | src.bucket.logging:info:31 -  | Request ID: fa7fe1e9-cd37-43ea-b4f7-0a8d12c95892 | chat-v1 | 'Finished chat. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing well thanks! How are you? What kind of things are you interested in chatting about?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e4bbab301764e341dca9\', \'id\': \'67d6e4bbab301764e341dca9\', \'info_output\': None} request_id=\'fa7fe1e9-cd37-43ea-b4f7-0a8d12c95892\''
+2025-03-16 21:50:47.599 | INFO     | src.bucket.logging:info:31 -  | Request ID: d2cffc93-c308-4acb-82c0-533c0018fd91 | chat-v1 | "Start to chat. Payload: request_id='d2cffc93-c308-4acb-82c0-533c0018fd91' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:50:56.982 | INFO     | src.bucket.logging:info:31 -  | Request ID: d2cffc93-c308-4acb-82c0-533c0018fd91 | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m doing great, thanks for asking. How are you? What kind of things are you interested in chatting about?\\n","session_id":"test_session_id","_id":"67d6e54dab301764e341dcaa","id":"67d6e54dab301764e341dcaa","info_output":null}]'
+2025-03-16 21:50:56.983 | INFO     | src.bucket.logging:info:31 -  | Request ID: d2cffc93-c308-4acb-82c0-533c0018fd91 | chat-v1 | 'Response: {\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing great, thanks for asking. How are you? What kind of things are you interested in chatting about?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e54dab301764e341dcaa\', \'id\': \'67d6e54dab301764e341dcaa\', \'info_output\': None}'
+2025-03-16 21:50:57.320 | INFO     | src.bucket.logging:info:31 -  | Request ID: d2cffc93-c308-4acb-82c0-533c0018fd91 | chat-v1 | 'Finished chat. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing great, thanks for asking. How are you? What kind of things are you interested in chatting about?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e54dab301764e341dcaa\', \'id\': \'67d6e54dab301764e341dcaa\', \'info_output\': None} request_id=\'d2cffc93-c308-4acb-82c0-533c0018fd91\''
+2025-03-16 21:52:39.822 | INFO     | src.bucket.logging:info:31 -  | Request ID: 0bc65388-7d38-4e7f-8c6f-e3872d82c9f9 | chat-v1 | "Start to chat. Payload: request_id='0bc65388-7d38-4e7f-8c6f-e3872d82c9f9' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:52:49.125 | INFO     | src.bucket.logging:info:31 -  | Request ID: 0bc65388-7d38-4e7f-8c6f-e3872d82c9f9 | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m great, thanks. How are you? What kind of things interest you today?\\n","session_id":"test_session_id","_id":"67d6e5beab301764e341dcab","id":"67d6e5beab301764e341dcab","info_output":null}]'
+2025-03-16 21:52:49.126 | INFO     | src.bucket.logging:info:31 -  | Request ID: 0bc65388-7d38-4e7f-8c6f-e3872d82c9f9 | chat-v1 | 'Response: {\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m great, thanks. How are you? What kind of things interest you today?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e5beab301764e341dcab\', \'id\': \'67d6e5beab301764e341dcab\', \'info_output\': None}'
+2025-03-16 21:52:49.191 | INFO     | src.bucket.logging:info:31 -  | Request ID: 0bc65388-7d38-4e7f-8c6f-e3872d82c9f9 | chat-v1 | 'Finished chat. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m great, thanks. How are you? What kind of things interest you today?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e5beab301764e341dcab\', \'id\': \'67d6e5beab301764e341dcab\', \'info_output\': None} request_id=\'0bc65388-7d38-4e7f-8c6f-e3872d82c9f9\''
+2025-03-16 21:53:47.524 | INFO     | src.bucket.logging:info:31 -  | Request ID: d7d4558b-a873-4366-98d4-e38fb73dc266 | chat-v1 | "Start to chat. Payload: request_id='d7d4558b-a873-4366-98d4-e38fb73dc266' session_id='test_session_id' message='hellu_How_are_yu'"
+2025-03-16 21:53:57.091 | INFO     | src.bucket.logging:info:31 -  | Request ID: d7d4558b-a873-4366-98d4-e38fb73dc266 | chat-v1 | 'Raw response: [{"user_input":"hellu_How_are_yu","ai_output":"Hey! I\'m doing well, thanks! How are you? What kind of things are you interested in chatting about?\\n","session_id":"test_session_id","_id":"67d6e601ab301764e341dcac","id":"67d6e601ab301764e341dcac","info_output":null}]'
+2025-03-16 21:53:57.093 | INFO     | src.bucket.logging:info:31 -  | Request ID: d7d4558b-a873-4366-98d4-e38fb73dc266 | chat-v1 | 'Response: {\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing well, thanks! How are you? What kind of things are you interested in chatting about?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e601ab301764e341dcac\', \'id\': \'67d6e601ab301764e341dcac\', \'info_output\': None}'
+2025-03-16 21:53:57.487 | INFO     | src.bucket.logging:info:31 -  | Request ID: d7d4558b-a873-4366-98d4-e38fb73dc266 | chat-v1 | 'Finished chat. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing well, thanks! How are you? What kind of things are you interested in chatting about?\\n", \'session_id\': \'test_session_id\', \'_id\': \'67d6e601ab301764e341dcac\', \'id\': \'67d6e601ab301764e341dcac\', \'info_output\': None} request_id=\'d7d4558b-a873-4366-98d4-e38fb73dc266\''
+2025-03-16 22:01:52.716 | INFO     | src.bucket.logging:info:31 -  | Request ID: 2f065e69-34ba-48c7-907d-a8b652ca83ee | create-session-v1 | "Start to create chat session. Payload: request_id='2f065e69-34ba-48c7-907d-a8b652ca83ee' session_id='new_session_id'"
+2025-03-16 22:01:52.960 | INFO     | src.bucket.logging:info:31 -  | Request ID: 2f065e69-34ba-48c7-907d-a8b652ca83ee | create-session-v1 | "Finished. Output: code=200 error_msg='' warn_msg='' result={'status': 'success', 'session_id': 'new_session_id'} request_id='2f065e69-34ba-48c7-907d-a8b652ca83ee'"
+2025-03-16 22:02:22.407 | INFO     | src.bucket.logging:info:31 -  | Request ID: 9af5bfa7-d186-49da-8232-754bb8c256d0 | chat-v1 | "Start to chat. Payload: request_id='9af5bfa7-d186-49da-8232-754bb8c256d0' session_id='new_session_id' message='I want to test something with you'"
+2025-03-16 22:02:33.159 | INFO     | src.bucket.logging:info:31 -  | Request ID: 9af5bfa7-d186-49da-8232-754bb8c256d0 | chat-v1 | 'Raw response: [{"user_input":"I want to test something with you","ai_output":"Hey there! I\'m here and ready. What\'s on your mind today?\\n","session_id":"new_session_id","_id":"67d6e805ab301764e341dcad","id":"67d6e805ab301764e341dcad","info_output":null}]'
+2025-03-16 22:02:33.160 | INFO     | src.bucket.logging:info:31 -  | Request ID: 9af5bfa7-d186-49da-8232-754bb8c256d0 | chat-v1 | 'Response: {\'user_input\': \'I want to test something with you\', \'ai_output\': "Hey there! I\'m here and ready. What\'s on your mind today?\\n", \'session_id\': \'new_session_id\', \'_id\': \'67d6e805ab301764e341dcad\', \'id\': \'67d6e805ab301764e341dcad\', \'info_output\': None}'
+2025-03-16 22:02:33.219 | INFO     | src.bucket.logging:info:31 -  | Request ID: 9af5bfa7-d186-49da-8232-754bb8c256d0 | chat-v1 | 'Finished chat. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'user_input\': \'I want to test something with you\', \'ai_output\': "Hey there! I\'m here and ready. What\'s on your mind today?\\n", \'session_id\': \'new_session_id\', \'_id\': \'67d6e805ab301764e341dcad\', \'id\': \'67d6e805ab301764e341dcad\', \'info_output\': None} request_id=\'9af5bfa7-d186-49da-8232-754bb8c256d0\''
+2025-03-16 22:02:55.681 | INFO     | src.bucket.logging:info:31 -  | Request ID: 1a6e2b39-ed37-4b9b-9b35-3e7ae72d8b6e | chat-v1 | "Start to chat. Payload: request_id='1a6e2b39-ed37-4b9b-9b35-3e7ae72d8b6e' session_id='new_session_id' message='I have a new dog called Sushi'"
+2025-03-16 22:03:05.932 | INFO     | src.bucket.logging:info:31 -  | Request ID: 1a6e2b39-ed37-4b9b-9b35-3e7ae72d8b6e | chat-v1 | 'Raw response: [{"user_input":"I have a new dog called Sushi","ai_output":"That\'s awesome! What kind of personality are you looking for in a companion? Do you prefer someone funny, supportive, or perhaps something else?\\n","session_id":"new_session_id","_id":"67d6e826ab301764e341dcae","id":"67d6e826ab301764e341dcae","info_output":null}]'
+2025-03-16 22:03:05.933 | INFO     | src.bucket.logging:info:31 -  | Request ID: 1a6e2b39-ed37-4b9b-9b35-3e7ae72d8b6e | chat-v1 | 'Response: {\'user_input\': \'I have a new dog called Sushi\', \'ai_output\': "That\'s awesome! What kind of personality are you looking for in a companion? Do you prefer someone funny, supportive, or perhaps something else?\\n", \'session_id\': \'new_session_id\', \'_id\': \'67d6e826ab301764e341dcae\', \'id\': \'67d6e826ab301764e341dcae\', \'info_output\': None}'
+2025-03-16 22:03:05.990 | INFO     | src.bucket.logging:info:31 -  | Request ID: 1a6e2b39-ed37-4b9b-9b35-3e7ae72d8b6e | chat-v1 | 'Finished chat. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'user_input\': \'I have a new dog called Sushi\', \'ai_output\': "That\'s awesome! What kind of personality are you looking for in a companion? Do you prefer someone funny, supportive, or perhaps something else?\\n", \'session_id\': \'new_session_id\', \'_id\': \'67d6e826ab301764e341dcae\', \'id\': \'67d6e826ab301764e341dcae\', \'info_output\': None} request_id=\'1a6e2b39-ed37-4b9b-9b35-3e7ae72d8b6e\''
+2025-03-16 22:05:49.407 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | "Start to get history. Payload: request_id='test' session_id='test_session_id'"
+2025-03-16 22:06:31.390 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | "Start to get history. Payload: request_id='test' session_id='test_session_id'"
+2025-03-16 22:07:00.909 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | "Start to get history. Payload: request_id='test' session_id='test_session_id'"
+2025-03-16 22:07:44.426 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | "Start to get history. Payload: request_id='test' session_id='test_session_id'"
+2025-03-16 22:08:08.855 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | "Start to get history. Payload: request_id='test' session_id='test_session_id'"
+2025-03-16 22:08:09.780 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | 'Finished. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'result\': [{\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing well, thanks! How are you? What kind of things are you interested in chatting about?\\n", \'info_output\': None, \'created_at\': datetime.datetime(2025, 3, 16, 21, 53, 57, 428000)}]} request_id=\'test\''
+2025-03-16 22:08:42.906 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | "Start to get history. Payload: request_id='test' session_id='test_session_id'"
+2025-03-16 22:08:43.135 | INFO     | src.bucket.logging:info:31 -  | Request ID: test | get-history-v1 | 'Finished. Output: code=200 error_msg=\'\' warn_msg=\'\' result={\'chat_history\': [{\'user_input\': \'hellu_How_are_yu\', \'ai_output\': "Hey! I\'m doing well, thanks! How are you? What kind of things are you interested in chatting about?\\n", \'info_output\': None, \'created_at\': datetime.datetime(2025, 3, 16, 21, 53, 57, 428000)}]} request_id=\'test\''
+2025-03-16 22:09:25.563 | INFO     | src.bucket.logging:info:31 -  | Request ID: 2b9ebc4f-b421-4e3a-9446-4b6cb8aad66a | get-all-sessions-v1 | "Start to get all sessions. Payload: request_id='2b9ebc4f-b421-4e3a-9446-4b6cb8aad66a'"
+2025-03-16 22:09:25.564 | ERROR    | src.bucket.logging:exception:37 -  | Request ID: 2b9ebc4f-b421-4e3a-9446-4b6cb8aad66a | get-all-sessions-v1 | "Error when getting all sessions: 'GetAllSessionsRequestModel' object has no attribute 'session_id'."
+Traceback (most recent call last):
+
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/threading.py", line 1032, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7fbbed6363e0>
+    └ <WorkerThread(AnyIO worker thread, started 140444793026112)>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/threading.py", line 1075, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x7fbbea11a480>
+    └ <WorkerThread(AnyIO worker thread, started 140444793026112)>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 962, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function v1_get_all_sessions_handler at 0x7fbbea572c00>, request_id='')
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x7fbbea0ff7c0>
+
+  File "/home/nguyenhuutho/workspace/tho/agent-playground/src/app/app.py", line 22, in v1_get_all_sessions_handler
+    return get_all_sessions_handler(item)
+           │                        └ GetAllSessionsRequestModel(request_id='2b9ebc4f-b421-4e3a-9446-4b6cb8aad66a')
+           └ <function get_all_sessions_handler at 0x7fbbea571f80>
+
+> File "/home/nguyenhuutho/workspace/tho/agent-playground/src/component/chat_2_relieve/handler.py", line 48, in get_all_sessions_handler
+    d_response = get_all_sessions(item.session_id)
+                 │                └ GetAllSessionsRequestModel(request_id='2b9ebc4f-b421-4e3a-9446-4b6cb8aad66a')
+                 └ <function get_all_sessions at 0x7fbbeb347c40>
+
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/pydantic/main.py", line 891, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+                                 │                                          └ 'session_id'
+                                 └ GetAllSessionsRequestModel(request_id='2b9ebc4f-b421-4e3a-9446-4b6cb8aad66a')
+
+AttributeError: 'GetAllSessionsRequestModel' object has no attribute 'session_id'
+2025-03-16 22:09:39.224 | INFO     | src.bucket.logging:info:31 -  | Request ID: 7e6df6d1-6551-4f8a-b357-e38b8a3f8c8e | get-all-sessions-v1 | "Start to get all sessions. Payload: request_id='7e6df6d1-6551-4f8a-b357-e38b8a3f8c8e'"
+2025-03-16 22:09:39.224 | ERROR    | src.bucket.logging:exception:37 -  | Request ID: 7e6df6d1-6551-4f8a-b357-e38b8a3f8c8e | get-all-sessions-v1 | "Error when getting all sessions: 'GetAllSessionsRequestModel' object has no attribute 'session_id'."
+Traceback (most recent call last):
+
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/threading.py", line 1032, in _bootstrap
+    self._bootstrap_inner()
+    │    └ <function Thread._bootstrap_inner at 0x7f8f0d6d23e0>
+    └ <WorkerThread(AnyIO worker thread, started 140252056368704)>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/threading.py", line 1075, in _bootstrap_inner
+    self.run()
+    │    └ <function WorkerThread.run at 0x7f8f09f49ee0>
+    └ <WorkerThread(AnyIO worker thread, started 140252056368704)>
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 962, in run
+    result = context.run(func, *args)
+             │       │   │      └ ()
+             │       │   └ functools.partial(<function v1_get_all_sessions_handler at 0x7f8f0a2a2c00>, request_id='')
+             │       └ <method 'run' of '_contextvars.Context' objects>
+             └ <_contextvars.Context object at 0x7f8f09f38300>
+
+  File "/home/nguyenhuutho/workspace/tho/agent-playground/src/app/app.py", line 22, in v1_get_all_sessions_handler
+    return get_all_sessions_handler(item)
+           │                        └ GetAllSessionsRequestModel(request_id='7e6df6d1-6551-4f8a-b357-e38b8a3f8c8e')
+           └ <function get_all_sessions_handler at 0x7f8f0a2a1f80>
+
+> File "/home/nguyenhuutho/workspace/tho/agent-playground/src/component/chat_2_relieve/handler.py", line 48, in get_all_sessions_handler
+    d_response = get_all_sessions(item.session_id)
+                 │                └ GetAllSessionsRequestModel(request_id='7e6df6d1-6551-4f8a-b357-e38b8a3f8c8e')
+                 └ <function get_all_sessions at 0x7f8f0b3c7c40>
+
+  File "/home/nguyenhuutho/miniconda3/envs/agent-playground/lib/python3.12/site-packages/pydantic/main.py", line 891, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+                                 │                                          └ 'session_id'
+                                 └ GetAllSessionsRequestModel(request_id='7e6df6d1-6551-4f8a-b357-e38b8a3f8c8e')
+
+AttributeError: 'GetAllSessionsRequestModel' object has no attribute 'session_id'
+2025-03-16 22:11:45.457 | INFO     | src.bucket.logging:info:31 -  | Request ID: 40fe1fee-d9ed-43d2-86ee-9865a3cdea7b | get-all-sessions-v1 | "Start to get all sessions. Payload: request_id='40fe1fee-d9ed-43d2-86ee-9865a3cdea7b'"
+2025-03-16 22:11:45.801 | INFO     | src.bucket.logging:info:31 -  | Request ID: 40fe1fee-d9ed-43d2-86ee-9865a3cdea7b | get-all-sessions-v1 | "Finished. Output: code=200 error_msg='' warn_msg='' result={'chat_sessions': [{'session_id': 'test_session_id', 'created_at': datetime.datetime(2025, 3, 16, 21, 53, 57, 94000)}, {'session_id': 'new_session_id', 'created_at': datetime.datetime(2025, 3, 16, 22, 3, 5, 933000)}]} request_id='40fe1fee-d9ed-43d2-86ee-9865a3cdea7b'"

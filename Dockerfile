@@ -2,10 +2,9 @@ FROM python:3.12.9
 
 WORKDIR /app
 
-WORKDIR /app/log
-
 COPY requirements.txt /app
 COPY src /app/src
+COPY log /app/log
 
 RUN /usr/local/bin/python -m pip install --upgrade pip
 
