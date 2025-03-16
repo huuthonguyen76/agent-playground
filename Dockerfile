@@ -3,8 +3,7 @@ FROM python:3.12.9
 WORKDIR /app
 
 COPY requirements.txt /app
-COPY src /app/
-COPY .env /app/
+COPY src /app
 
 RUN /usr/local/bin/python -m pip install --upgrade pip
 

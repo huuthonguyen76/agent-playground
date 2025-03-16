@@ -1,4 +1,6 @@
-from src.model.setting_model import SettingModel
+import os
+
+from src.model.setting_model import SettingModel, SettingModelEnvironment
 
 
 def get_setting() -> SettingModel:
@@ -8,5 +10,9 @@ def get_setting() -> SettingModel:
     Returns:
         SettingModel: The setting model object.
     """
-    setting_model = SettingModel()
-    return setting_model
+    try:
+        setting_model = SettingModel()
+        return setting_model
+    except Exception as e:
+        setting_model_environment = SettingModelEnvironment()
+        return setting_model_environment
