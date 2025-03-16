@@ -5,7 +5,7 @@ update-submodule:
 	git submodule update --remote --merge
 
 run:
-	python3 -m agent_playground.app.app
+	python3 -m uvicorn src.app.app:app --host 0.0.0.0 --port 7860
 
 docker-build:
 	docker build -t agent-playground .
