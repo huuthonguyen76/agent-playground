@@ -15,10 +15,11 @@ def prepare_logger() -> None:
         None
     """
     # Create log folder if not exist
-    if not os.path.exists('log'):
-        os.makedirs('log')
+    # if not os.path.exists('log'):
+    #     os.makedirs('log')
 
-    logger.add('log/ingestion.log', rotation="3000 MB", enqueue=True)
+    # logger.add('log/ingestion.log', rotation="3000 MB", enqueue=True)
+    
 
 
 class APILogger():
