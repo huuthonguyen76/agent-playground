@@ -1,5 +1,4 @@
-from website_parser.website_parser.parser.starterstory import StarterStoryParser
+from youtube_transcript_api import YouTubeTranscriptApi
 
-parser = StarterStoryParser(html_executor_url="http://localhost:8000")
-
-print(parser.parse('https://www.starterstory.com/stories/brumate'))
+ytt_api = YouTubeTranscriptApi()
+print(ytt_api.fetch('aXiOBAXYxCI'))
